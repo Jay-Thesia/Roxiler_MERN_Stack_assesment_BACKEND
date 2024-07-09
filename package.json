@@ -23,7 +23,8 @@
     "tsc-alias": "^1.8.10",
     "tsconfig-paths": "^4.2.0",
     "winston": "^3.13.0",
-    "winston-daily-rotate-file": "^5.0.0"
+    "winston-daily-rotate-file": "^5.0.0",
+    "typescript": "^5.5.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
@@ -31,7 +32,6 @@
     "@types/node": "^20.12.12",
     "nodemon": "^3.1.0",
     "npm": "^10.8.0",
-    "tslib": "^2.6.2",
-    "typescript": "^5.4.5"
+    "tslib": "^2.6.2"
   }
 }
