@@ -1,0 +1,8 @@
+dist
+node_modules
+ecosystem.config.js
+
+logger
+
+.env.*
+!.env.example
